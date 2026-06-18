@@ -1,3 +1,4 @@
+// javascript code 
 import{useState,useEffect}from "react";
 function App(){
     const [name,setName]= useState("");
@@ -57,6 +58,7 @@ else{
     setStudents(updatedStudents);
 
     localStorage.setItem(... 
+        "students"
     );
 localStorage.setItem(
     "students",
