@@ -25,7 +25,7 @@ function App(){
     age === "" 
     ) {
 
-        alter("Please fill all fields");
+        alert("Please fill all fields");
 
         return;
 
@@ -220,7 +220,7 @@ setName("")
         border="1"
         cellpadding="10"
         style={{
-        width="100%",
+        width:"100%",
 
         borderCollapse:
 
